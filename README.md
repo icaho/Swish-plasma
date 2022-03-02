@@ -10,4 +10,7 @@ My take on a comfortable plasma theme, modifications on the Materia-dark plasma 
 
 ![preview 2](preview2.png)
 
+Colours 'Shadows-dark'
+Icons 'Qogir-dark'
+
 link to original wallpaper [https://wallpapercave.com/download/night-mountain-wallpapers-wp2532971](https://wallpapercave.com/download/night-mountain-wallpapers-wp2532971)
